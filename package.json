@@ -1,0 +1,21 @@
+{
+    "name": "flexbox-responsive",
+    "version": "1.0.0",
+    "description": "Responsive layout example using CSS Flexbox",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "parcel index.html",
+        "prod": "parcel build ./assets/js/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/subzw0rld/flexbox-responsive.git"
+    },
+    "author": "Subroto",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/subzw0rld/flexbox-responsive/issues"
+    },
+    "homepage": "https://github.com/subzw0rld/flexbox-responsive#readme"
+}
